@@ -36,7 +36,7 @@ The travel and hospitality industry is constantly evolving, facing challenges su
 This project underscores the significance of data-driven decision-making in the travel and hospitality industry. By harnessing the power of Excel and leveraging analytical tools and techniques, stakeholders can gain valuable insights to enhance operational efficiency, improve customer satisfaction, and drive industry innovation.
 
 <div style="text-align:center;">
-    <img src="path/to/your/dashboard/image.png" alt="Dashboard" />
+    <img src="https://github.com/Navjotkhatri/Travel_-_Hospitality_Industry_Analysis/blob/main/Screenshot%202024-04-04%20141518.png" alt="Dashboard" />
 </div>
 
 ## Acknowledgments
